@@ -21,7 +21,7 @@
 ## ВСР
 1. Оценка качества ЭУК и самооценка созданных ЭОР.
 
-[Задание]()
+[Задание](https://github.com/polinalazebnikova/sem7-eios/blob/master/%D0%9E%D1%86%D0%B5%D0%BD%D0%BA%D0%B0%20%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%AD%D0%A3%D0%9A.docx)
 
 2. Разработка фрагмента ЭУК на платформе Canvas.
 
